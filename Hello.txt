@@ -1,1 +1,2 @@
 Print("Hello WORLD!");
+Print("New string");
