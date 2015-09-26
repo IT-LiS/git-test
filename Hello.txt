@@ -2,3 +2,5 @@ Print("Hello WORLD!^");
 Print("New string^");
 Print("New string 2^");
 Print("New string 345^");
+Print("New string 456^");
+Print("New string 4567^");
